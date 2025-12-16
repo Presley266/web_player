@@ -191,7 +191,6 @@ function setVolume(){
     updateVolumeIcon();
 }
 
-
 volumeTogger.addEventListener('input',updateVolume);
 // 音量滑动块
 function updateVolume(){

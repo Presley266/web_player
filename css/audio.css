@@ -3,14 +3,12 @@ body{
     margin: 0;
     box-sizing: border-box;
 }
-html,
-body{
+html,body{
     height: 100%;
     background-size: cover;
     overflow: hidden;
-    /* background-image: url('../img/bg0.png'); */
     backdrop-filter: blur(50px);
-    /* opacity: 0.5; */
+
 }
 
 .upper-container{
